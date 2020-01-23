@@ -1,0 +1,22 @@
+{
+  "name": "MangoCoinWebWallet",
+  "version": "1.0.0",
+  "description": "Fully client side web wallet for Mangocoin",
+  "main": "index.js",
+  "dependencies": {
+    "localforage": "^1.7.2",
+    "typescript": "^2.9.2",
+    "workbox-build": "^3.4.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mangocoinproject/mangocoin-webwallet-js.git"
+  },
+  "author": "gnock & TurtleCoin & Mangocoin",
+  "license": "BSD-3",
+  "bugs": {
+    "url": "https://github.com/mangocoinproject/mangocoin-webwallet-jsissues"
+  },
+  "homepage": "https://github.com/mangocoinproject/mangocoin-webwallet-js#readme"
+}
